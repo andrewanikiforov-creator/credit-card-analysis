@@ -65,12 +65,12 @@
 ---
 
 ## 📁 Структура проекта
-credit-card-analysis/
-├── Project4.ipynb # Основной ноутбук с полным кодом анализа
-├── README.md # Это описание проекта
-├── requirements.txt # Список зависимостей Python
-├── .gitignore # Файл для исключения служебных файлов
-└── LICENSE # Лицензия MIT
+credit-card-analysis/  
+├── Project4.ipynb # Основной ноутбук с полным кодом анализа  
+├── README.md # Это описание проекта  
+├── requirements.txt # Список зависимостей Python  
+├── .gitignore # Файл для исключения служебных файлов  
+└── LICENSE # Лицензия MIT  
 
 
 ---
