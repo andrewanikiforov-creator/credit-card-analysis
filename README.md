@@ -205,9 +205,9 @@ jupyter notebook Project4.ipynb
 
 ## 📞 Контакты
 
-**Автор:** Андрей Аникифоров
-**GitHub:** [github.com/andrewanikiforov-creator](https://github.com/andrewanikiforov-creator)
-**Telegram:** @A_N_Niforof_21082010 
-**Email:** andrewanikiforov@mail.ru
+**Автор:** Андрей Аникифоров  
+**GitHub:** [github.com/andrewanikiforov-creator](https://github.com/andrewanikiforov-creator)  
+**Telegram:** @A_N_Niforof_21082010  
+**Email:** andrewanikiforov@mail.ru  
 
 ⭐ Если проект был полезен, поставьте звезду на GitHub! ⭐
