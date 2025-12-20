@@ -178,7 +178,7 @@ credit-card-analysis/
 3. *Или* отредактируйте путь к файлу в ноутбуке `Project4.ipynb`
 
 ### 2. Клонируйте репозиторий
-```bash
+
 git clone https://github.com/andrewanikiforov-creator/credit-card-analysis.git
 cd credit-card-analysis
 
