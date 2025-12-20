@@ -179,8 +179,8 @@ credit-card-analysis/
 
 ### 2. Клонируйте репозиторий
 
-git clone https://github.com/andrewanikiforov-creator/credit-card-analysis.git
-cd credit-card-analysis
+git clone https://github.com/andrewanikiforov-creator/credit-card-analysis.git  
+cd credit-card-analysis  
 
 ### 3. Установите зависимости
 pip install -r requirements.txt
